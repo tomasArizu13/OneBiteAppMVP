@@ -134,6 +134,19 @@ export default function Home() {
                 Registrarme Ahora
               </Button>
             </Link>
+            <section className="py-12 bg-gray-100">
+  <div className="max-w-3xl mx-auto px-4">
+    <h2 className="text-2xl font-bold mb-4 text-center">¿Qué te pareció OneBite?</h2>
+    <p className="text-center mb-6 text-gray-600">Dejanos tus ideas, sugerencias o problemas. Queremos mejorar contigo.</p>
+    <iframe
+      src="https://tally.so/r/npZ8yq"
+      width="100%"
+      height="500"
+      frameBorder="0"
+      title="Formulario de Feedback"
+    ></iframe>
+  </div>
+</section>
           </div>
         </div>
       </section>
